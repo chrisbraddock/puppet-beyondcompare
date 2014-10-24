@@ -1,4 +1,4 @@
-name    'chrisbraddock-puppet-beyondcompare'
+name    'puppet-beyondcompare'
 version '0.1.0'
 source ''
 author 'Chris Braddock'

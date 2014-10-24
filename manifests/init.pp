@@ -1,4 +1,4 @@
-class puppet-beyondcompare(
+class beyondcompare(
   $version = '4.0.0.18847'
 ) {
   package { 'Beyond Compare':
