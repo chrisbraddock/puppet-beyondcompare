@@ -3,7 +3,7 @@ class puppet-beyondcompare(
 ) {
   package { 'Beyond Compare':
     provider => 'appzip',
-    source   => "http://www.scootersoftware.com/BCompareOSX-$version.zip
+    source   => "http://www.scootersoftware.com/BCompareOSX-$version.zip"
   }
 }
 
